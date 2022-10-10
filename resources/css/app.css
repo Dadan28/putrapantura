@@ -1,0 +1,7 @@
+@import './offcanvas.css';
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
